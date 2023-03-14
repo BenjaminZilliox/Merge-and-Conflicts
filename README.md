@@ -1,4 +1,4 @@
-# Merge-and-Conflicts
+LOCAL
 
 Voici quelques
 lignes
